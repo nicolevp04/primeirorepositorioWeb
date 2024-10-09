@@ -396,3 +396,14 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+files/
+minhasPendencias.txt
+.buildpath
+.project
+.settings
+.codelite
+*.phprj
+*.workspace
+\.ftpconfig
+.vscode/
